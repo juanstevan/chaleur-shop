@@ -47,9 +47,14 @@ a {
     margin-top: 5em;
 
     font-family: inherit;
+    font-size: .8rem;
 
     color: black;
     background: white;
+}
+
+a:visited {
+    color: black;
 }
 
 p:last-of-type {
