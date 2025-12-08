@@ -16,6 +16,11 @@ html {
     padding: 0;
 }
 
+body {
+    min-height: 100vh;
+    background: white;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -102,8 +107,6 @@ main {
     gap: 4em;
 
     padding: 1.5em;
-
-    min-height: 100vh;
 
     background: white;
 }
